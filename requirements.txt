@@ -1,0 +1,11 @@
+aiogram
+apscheduler
+gspread
+oauth2client
+python-dotenv
+holidays
+pytz
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+aiohttp
